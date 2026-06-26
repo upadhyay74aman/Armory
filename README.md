@@ -32,7 +32,7 @@ npm run build
 
 ## Live Demo
 
-[Add your Vercel link here]
+https://armory-theta.vercel.app/
 
 ## Repository Structure
 
