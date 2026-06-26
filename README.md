@@ -32,7 +32,8 @@ npm run build
 
 ## Live Demo
 
-https://armory-theta.vercel.app/
+**Live Site:** https://armory-theta.vercel.app/
+**Demo Video:** https://drive.google.com/file/d/19q8Rihyik2CgMIorriL5hhBPyr1IoKDG/view?usp=sharing
 
 ## Repository Structure
 
