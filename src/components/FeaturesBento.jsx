@@ -55,7 +55,7 @@ export default function FeaturesBento() {
                 className="bg-nocturnal-expedition border border-mystic-mint/20 rounded-xl overflow-hidden transition-all duration-300 ease-in-out"
               >
                 <button 
-                  onClick={() => setActiveIndex(feat.id)}
+                  onClick={() => setActiveIndex(activeIndex === feat.id ? null : feat.id)}
                   className="w-full text-left p-6 font-mono font-bold text-lg hover:text-forsythia transition-colors duration-200 ease-out flex justify-between items-center"
                 >
                   <div className="flex items-center gap-3">
